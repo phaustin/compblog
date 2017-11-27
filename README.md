@@ -11,7 +11,6 @@ $ git clone https://gitlab.math.ubc.ca/phaustin/compblog
 $ cd compblog
 $ git submodule add git://github.com/getpelican/pelican-plugins.git plugins/pelican-plugins
 $ git submodule add git://github.com/danielfrg/pelican-ipynb.git plugins/ipynb
-$ git submodule add git://github.com/getpelican/pelican-plugins.git plugins/tag_cloud
 ```
 
 Install the required packages (assuming miniconda 3.6):
