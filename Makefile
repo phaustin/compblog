@@ -60,6 +60,7 @@ help:
 	@echo '   make s3_upload                      upload the web site via S3         '
 	@echo '   make cf_upload                      upload the web site via Cloud Files'
 	@echo '   make github                         upload the web site via gh-pages   '
+	@echo '   make publish-to-kite                upload the web site to kite'
 	@echo '                                                                          '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '

@@ -1,6 +1,10 @@
 # Pelican generated files
 output
 
+#submodules
+plugins/ipynb
+plugins/pelican-plugins
+
 # Jupyter temp files
 .ipynb_checkpoints
 

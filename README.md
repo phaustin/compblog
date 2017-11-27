@@ -8,7 +8,8 @@ Clone the repository & make sure submodules are included
 
 ```
 $ git clone https://gitlab.math.ubc.ca/phaustin/compblog
-$ git submodule update --init --recursive
+$ git submodule add git://github.com/getpelican/pelican-plugins.git plugins/pelican-plugins
+$ git submodule add git://github.com/danielfrg/pelican-ipynb.git plugins/ipynb
 ```
 
 Install the required packages:
