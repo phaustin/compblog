@@ -4,6 +4,7 @@ output
 #submodules
 plugins/ipynb
 plugins/pelican-plugins
+plugins/tag_cloud
 
 # Jupyter temp files
 .ipynb_checkpoints

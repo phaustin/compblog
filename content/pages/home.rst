@@ -1,7 +1,8 @@
 :Title: EOAS Computer Committee
 :URL:
 :save_as: index.html
-
+:Template: front
+           
 This page lists articles/tutorials/tips for EOAS computing
 
 Recent articles

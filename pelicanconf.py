@@ -39,7 +39,8 @@ PLUGINS = [
     'liquid_tags.img',  # embedding images
     'liquid_tags.video',  # embedding videos
     'liquid_tags.include_code',  # including code blocks
-    'liquid_tags.literal'
+    'liquid_tags.literal',
+    'tag_cloud'
 ]
 IGNORE_FILES = ['.ipynb_checkpoints']
 
@@ -50,7 +51,7 @@ NOTEBOOK_DIR = 'downloads/notebooks'
 # THEME SETTINGS
 THEME = './theme/'
 
-ABOUT_PAGE = 'pages/about.html'
+ABOUT_PAGE = None
 #TWITTER_USERNAME = 'jakevdp'
 #GITHUB_USERNAME = 'jakevdp'
 #STACKOVERFLOW_ADDRESS = 'http://stackoverflow.com/users/2937831/jakevdp'

@@ -8,16 +8,17 @@ Clone the repository & make sure submodules are included
 
 ```
 $ git clone https://gitlab.math.ubc.ca/phaustin/compblog
+$ cd compblog
 $ git submodule add git://github.com/getpelican/pelican-plugins.git plugins/pelican-plugins
 $ git submodule add git://github.com/danielfrg/pelican-ipynb.git plugins/ipynb
+$ git submodule add git://github.com/getpelican/pelican-plugins.git plugins/tag_cloud
 ```
 
-Install the required packages:
+Install the required packages (assuming miniconda 3.6):
 
 ```
-$ conda create -n pelican-blog python=3.6 jupyter notebook
-$ source activate pelican-blog
-$ pip install pelican Markdown ghp-import
+$ conda installjupyter notebook
+$ pip install pelican Markdown
 ```
 
 Build the html and serve locally:
