@@ -1,4 +1,4 @@
-Title: Canvas: Hide/Reorder Navigation Items In A Course
+Title: Hide/Reorder Navigation Items In A Course
 date: 2018-01-12 11:00
 tags: canvas
 

@@ -1,4 +1,4 @@
-Title: Canvas: Other Useful Resources
+Title: Other Useful Resources
 date: 2018-01-12 13:00
 tags: canvas
 

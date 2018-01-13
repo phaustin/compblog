@@ -1,4 +1,4 @@
-Title: Canvas: How To Add A New Role In A Course
+Title: How To Add A New Role In A Course
 date: 2018-01-12 13:00
 tags: canvas
 

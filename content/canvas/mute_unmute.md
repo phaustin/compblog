@@ -1,4 +1,4 @@
-Title: Canvas: How To Mute Or Unmute Assignments
+Title: How To Mute Or Unmute Assignments
 date: 2018-01-12 14:00
 tags: canvas
 

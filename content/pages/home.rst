@@ -5,8 +5,22 @@
            
 This page lists articles/tutorials/tips for EOAS computing
 
+Subject categories
+==================
+  
+* `moving from connect to canvas <{tag}canvas>`_
+
+* `adding web content <{category}web>`_
+
+* `managing email <{category}email>`_
+
+* `general EOAS computing questions <{category}admin>`_  
+
+
 Recent articles
 ===============
+
+* `Canvas help pages <{filename}/canvas/getting_help.rst>`_
 
 * `What to do when our email/website is not working <{filename}/admin/systemstatus.rst>`_
 
@@ -14,14 +28,4 @@ Recent articles
 
 * `maintaining your publication list <{filename}/web/publication_list.md>`_
 
-Subject categories
-==================
-  
-* `tips for making the transition from connect to canvas <{category}canvas>`_
-
-* `adding web content <{category}web>`_
-
-* `managing email <{category}email>`_
-
-* `general EOAS computing questions <{category}admin>`_  
   
