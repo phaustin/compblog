@@ -1,5 +1,5 @@
-Sending a message using the “conversations” tool for EOSC 311
-=============================================================
+Sending a message using the “conversations” tool for Canvas
+===========================================================
 
 :date: 2018-1-14 18:39
 :slug: canvas/conversations
@@ -41,12 +41,11 @@ Sending a message using the “conversations” tool for EOSC 311
 |    and hit send!                  |                                   |
 +-----------------------------------+-----------------------------------+
 
-.. |image0| image:: /images/conversations/image1.png
+.. |image0| image:: {filename}/images/conversations/image1.png
    :scale: 90 %
-.. |image1| image:: /images/conversations/image2.png
+.. |image1| image:: {filename}/images/conversations/image2.png
    :scale: 90 %
-
-.. |image2| image:: /images/conversations/image3.png
+.. |image2| image:: {filename}/images/conversations/image3.png
    :scale: 90 %                    
 
           
