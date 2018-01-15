@@ -16,7 +16,7 @@ $ git submodule add git://github.com/danielfrg/pelican-ipynb.git plugins/ipynb
 Install the required packages (assuming miniconda 3.6):
 
 ```
-$ conda installjupyter notebook
+$ conda install jupyter notebook
 $ pip install pelican Markdown
 ```
 
